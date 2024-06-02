@@ -1,0 +1,3 @@
+C:/Users/tensor/Desktop/cppLearning/CPP_Primer/ch1/CMakeFiles/hello.dir
+C:/Users/tensor/Desktop/cppLearning/CPP_Primer/ch1/CMakeFiles/edit_cache.dir
+C:/Users/tensor/Desktop/cppLearning/CPP_Primer/ch1/CMakeFiles/rebuild_cache.dir
