@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/tensor/Desktop/cppLearning/CPP_Primer/ch2/build",
+  "command": "C:/mingw64/bin/c++.exe  @CMakeFiles/source.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/source.dir/src/source.cpp.obj -c C:/Users/tensor/Desktop/cppLearning/CPP_Primer/ch2/src/source.cpp",
+  "file": "C:/Users/tensor/Desktop/cppLearning/CPP_Primer/ch2/src/source.cpp",
+  "output": "CMakeFiles/source.dir/src/source.cpp.obj"
+}
+]
