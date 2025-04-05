@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/source.dir/src/test_UniquePtr.cpp.o -o /home/tsh/CPP_Primer/smartPointer/bin/source 

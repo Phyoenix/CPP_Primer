@@ -1,0 +1,3 @@
+/home/tsh/CPP_Primer/smartPointer/build/CMakeFiles/smartPtr.dir
+/home/tsh/CPP_Primer/smartPointer/build/CMakeFiles/edit_cache.dir
+/home/tsh/CPP_Primer/smartPointer/build/CMakeFiles/rebuild_cache.dir
